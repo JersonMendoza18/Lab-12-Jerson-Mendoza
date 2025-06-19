@@ -60,13 +60,13 @@ Este proyecto es un sistema web desarrollado en **PHP y MySQL** que permite regi
    Si estás usando Apache (por ejemplo, con XAMPP o Apache24), coloca la carpeta del proyecto en:
 
    ```
-   C:/xampp/htdocs/Actividad1
+   C:/xampp/htdocs/Lab-12-Jerson-Mendoza
    ```
 
    o en:
 
    ```
-   C:/Apache24/htdocs/Actividad1
+   C:/Apache24/htdocs/Lab-12-Jerson-Mendoza
    ```
 
    Según tu configuración.
@@ -76,5 +76,5 @@ Este proyecto es un sistema web desarrollado en **PHP y MySQL** que permite regi
    Abre tu navegador y escribe:
 
    ```
-   http://localhost/Actividad1/view/CompraView.php
+   http://localhost/Lab-12-Jerson-Mendoza/view/CompraView.php
    ```
